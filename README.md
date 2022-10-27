@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+#  Project Name: Recipe's Point
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## :computer: [Click here](Recipes-point.surge.sh) to see my live project!
+## ![alt text](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fimage%2F2016%2F09%2Fmain%2F1609w-getty-cozi-app.jpg%3Fitok%3DdS8cafID)
+## :page_facing_up: About
+- It is a front-end application
+- It is an application designed to help users explore diffrent varieties of cuisines, based on ingredients and recipes name
+- There are also various inbuilt options, which showcases vegetarian and popular menus
+- By clicking on respective menu item,it displays cooking instructions and required ingredients
 
-## Available Scripts
+## :pencil2: Planning 
+- Used Trello to plan the project
+- Also had to decide on framework, language and style components
+- Searched for respective API to ensure it is interactive and provides required information about recipes to users
+- Planned application file structures
 
-In the project directory, you can run:
+## :pencil2: Problem solving 
+- Overcame display of features/ options displayed
 
-### `npm start`
+## :rocket: Cool tech
+- JavaScript
+- React Framework
+- React style component
+- React router dom
+- React Splide
+- React-dotenv
+- React icons
+- gif
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## :scream: Bugs to fix :poop:
+- ~~ Clearing search bar ~~
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+##  Lessons learnt
+##  Error handling
+##  Documentation understanding and implementation
+## ![alt text](https://www.researchgate.net/publication/328941724/figure/fig1/AS:692918771793927@1542216117395/A-traditional-project-management-cycle-Source-Flint-and-Meyer-zu-Natrup-2018_Q640.jpg)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## :white_check_mark: Future features
+-  Additional features to be incorpoarted in future, to enhance user experience
