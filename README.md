@@ -28,13 +28,13 @@
 - gif
 
 ## :scream: Bugs to fix :poop:
-# ~~Clearing search bar~~
+- ~~Clearing search bar~~
 
 
 ##  Lessons learnt
 -  Error handling
 -  Documentation understanding and implementation.
--   ![alt text](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fimage%2F2016%2F09%2Fmain%2F1609w-getty-cozi-app.jpg%3Fitok%3DdS8cafID)
+-   ![alt text](https://www.researchgate.net/publication/328941724/figure/fig1/AS:692918771793927@1542216117395/A-traditional-project-management-cycle-Source-Flint-and-Meyer-zu-Natrup-2018_Q640.jpg)
 
 ## :white_check_mark: Future features
 -  Additional features to be incorpoarted in future, to enhance user experience
