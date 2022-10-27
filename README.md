@@ -1,6 +1,6 @@
 #  Project Name: Recipe's Point
 
-## :computer: [Click here](Recipes-point.surge.sh) to see my live project!
+## :computer: [Click here]( https://recipes-point.surge.sh/) to see my live project!
 ## ![alt text](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fimage%2F2016%2F09%2Fmain%2F1609w-getty-cozi-app.jpg%3Fitok%3DdS8cafID)
 ## :page_facing_up: About
 - It is a front-end application
