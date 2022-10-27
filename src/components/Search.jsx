@@ -15,7 +15,9 @@ function Search() {
    
   }
   return (
+    
     <FormStyle onSubmit={submitHandler}>
+      <h5>Search here either by dish  or ingredient <span><img src="https://c.tenor.com/R-XD3lUdfccAAAAM/integet%C5%91szemek-waving.gif" alt="" /></span></h5>
       <div>
         <FaSearch></FaSearch>
         <input 
@@ -28,7 +30,7 @@ function Search() {
 }
 const FormStyle = styled.form`
    margin: 0rem 20rem;
-   // margin-top: -10rem;
+    margin-top: -12rem;
    div {
     width: 100%;
     position: relative;
