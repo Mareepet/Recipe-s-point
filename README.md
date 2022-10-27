@@ -34,7 +34,6 @@
 ##  Lessons learnt
 -  Error handling.
 -  Documentation understanding and implementation.
-## [alt text](https://www.researchgate.net/publication/328941724/figure/fig1/AS:692918771793927@1542216117395/A-traditional-project-management-cycle-Source-Flint-and-Meyer-zu-Natrup-2018.png)
-
+## ![alt text](https://www.researchgate.net/publication/328941724/figure/fig1/AS:692918771793927@1542216117395/A-traditional-project-management-cycle-Source-Flint-and-Meyer-zu-Natrup-2018.png)
 ## :white_check_mark: Future features
 -  Additional features to be incorpoarted in future, to enhance user experience
