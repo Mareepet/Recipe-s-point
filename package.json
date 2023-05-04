@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@splidejs/react-splide": "^0.7.12",
+    "@splidejs/splide": "^4.1.4",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -41,10 +42,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-
   },
   "react-dotenv": {
-    "whitelist": ["REACT_APP_API_KEY"]
-}
-
+    "whitelist": [
+      "REACT_APP_API_KEY"
+    ]
+  }
 }
